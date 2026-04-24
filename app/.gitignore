@@ -1,0 +1,27 @@
+# Android
+.gradle/
+local.properties
+.idea/
+*.iml
+build/
+captures/
+.externalNativeBuild/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
+
+# Node (for your web projects)
+node_modules/
+dist/
+.env
